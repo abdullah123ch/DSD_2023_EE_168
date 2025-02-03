@@ -17,20 +17,6 @@ This project focuses on the design and implementation of a given combinational c
 *   `constraints.xdc`: Constraint file for the target FPGA.
 *   `Diagram.pdf`: Block diagram of the circuit.
 
-## Results
-
-[Describe the results of the implementation. This could include timing information, resource utilization (LUTs, FFs, etc.), and any performance metrics. If you have simulation waveforms, you can refer to them here.]
-
-Example:
-
-*   Maximum Frequency: [e.g., 100 MHz]
-*   LUT Utilization: [e.g., 50]
-*   FF Utilization: [e.g., 20]
-
-## Conclusion
-
-[Summarize the project and discuss any challenges faced or lessons learned.]
-
 ## Author
 
 Abdullah Chaudhary
