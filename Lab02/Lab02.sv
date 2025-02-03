@@ -1,4 +1,4 @@
-module Lab03(
+module Lab02(
     input logic a,
     input logic b,
     input logic c,
