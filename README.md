@@ -13,11 +13,9 @@ This project focuses on the design and implementation of a given combinational c
 
 ## Files Included
 
-*   `rtl/[circuit_name].sv`: SystemVerilog RTL code for the logic circuit.  (e.g., `rtl/adder_subtractor.sv`)
-*   `constraints/[fpga_name].xdc`: Constraint file for the target FPGA. (e.g., `constraints/xc7a100tcsg324-1.xdc`)
-*   `diagrams/[circuit_name]_block_diagram.pdf`: Block diagram of the circuit. (e.g., `diagrams/adder_subtractor_block_diagram.pdf`)  (Or other image format like PNG, SVG, etc.)
-*   `diagrams/[circuit_name]_schematic.pdf` (Optional): Schematic diagram of the circuit. (e.g., `diagrams/adder_subtractor_schematic.pdf`)
-*   `[project_name].xpr` (Optional): Project file for the FPGA development tool (e.g., Xilinx Vivado).
+*   `Lab02.sv`: SystemVerilog RTL code for the logic circuit.
+*   `constraints.xdc`: Constraint file for the target FPGA.
+*   `Diagram.pdf`: Block diagram of the circuit.
 
 ## Results
 
@@ -35,8 +33,8 @@ Example:
 
 ## Author
 
-[Your Name]
+Abdullah Chaudhary
 
 ## Date
 
-[Date]
+03/02/2025
