@@ -14,6 +14,7 @@ This project focuses on the design and implementation of a given combinational c
 ## Files Included
 
 *   `Lab02.sv`: SystemVerilog RTL code for the logic circuit.
+*   `Lab02_tb.sv`: tenstBench for the systemVerilog RTL code.
 *   `constraints.xdc`: Constraint file for the target FPGA.
 *   `Diagram.pdf`: Block diagram of the circuit.
 
