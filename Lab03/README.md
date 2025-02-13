@@ -1,7 +1,7 @@
 # DSD_2023_EE_168
 # Experiment 3: Combinational Circuits: Structural Modeling Simulation
 
-This repository contains the RTL design, constraint file, and diagrams for a logic circuit implemented as part of Experiment 2.
+This repository contains the RTL design, constraint file, and diagrams for a logic circuit implemented as part of Experiment 3.
 
 ## Overview
 
