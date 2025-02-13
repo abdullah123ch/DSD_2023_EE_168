@@ -15,6 +15,8 @@ This project focuses on the design and implementation of a given combinational c
 
 *   `Lab03.sv`: SystemVerilog RTL code for the logic circuit.
 *   `Lab03_tb.sv`: tenstBench for the systemVerilog RTL code.
+*   `Full_adder.sv`: SystemVerilog RTL for full adder circuit.
+*   `Full_adder_tb.sv`: tenstBench for the full adder RTL code.
 *   `constraints.xdc`: Constraint file for the target FPGA.
 *   `Diagram.pdf`: Block diagram of the circuit.
 
