@@ -1,7 +1,7 @@
 # DSD_2023_EE_168
-# Experiment 2: Combinational Circuits: Structural Modeling using Vivado
+# Experiment 4: Combinational Circuit Design: RGB LED using K-Maps
 
-This repository contains the RTL design, constraint file, and diagrams for a logic circuit implemented as part of Experiment 2.
+This repository contains the RTL design, constraint file, and diagrams for a logic circuit implemented as part of Experiment 4.
 
 ## Overview
 
@@ -13,8 +13,8 @@ This project focuses on the design and implementation of a given combinational c
 
 ## Files Included
 
-*   `Lab02.sv`: SystemVerilog RTL code for the logic circuit.
-*   `Lab02_tb.sv`: tenstBench for the systemVerilog RTL code.
+*   `Lab04.sv`: SystemVerilog RTL code for the logic circuit.
+*   `Lab04_tb.sv`: tenstBench for the systemVerilog RTL code.
 *   `constraints.xdc`: Constraint file for the target FPGA.
 *   `Diagram.pdf`: Block diagram of the circuit.
 
@@ -24,6 +24,6 @@ Abdullah Chaudhary
 
 ## Date
 
-03/02/2025
+17/02/2025
 
 
